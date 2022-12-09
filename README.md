@@ -1,7 +1,8 @@
 ### Olá, eu sou a Laiz Zanlucas 👋
 
-- 🔭 Estou trabalhando com back-end
-- 🌱 No momento estou aprendendo Python.
+- 🔭 Estou trabalhando com back-end com python.
+- Estudando front-end.
+- 🌱 No momento estou aprendendo JAVA.
 - Estou atualmente em transição de carreira para área tec, pois sempre tive interesse em programação.
 
 <div align="center">
