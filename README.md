@@ -1,8 +1,8 @@
 ### Olá, eu sou a Laiz Zanlucas 👋
 
-- 🔭 Estou trabalhando com back-end com python.
+- 🔭 Conhecimento back-end com python e JAVA.
 - Estudando front-end.
-- 🌱 No momento estou aprendendo JAVA.
+- 🌱 No momento estou paticipando do programa Desemvolve 2023 do Grupo O Boticário.
 - Estou atualmente em transição de carreira para área tec, pois sempre tive interesse em programação.
 
 <div align="center">
