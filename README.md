@@ -1,8 +1,8 @@
 ### Olá, eu sou a Laiz Zanlucas 👋
 
-- 🔭 Conhecimento back-end com python e JAVA.
+- 🔭 Conhecimento back-end com Python e JAVA.
 - 🌱 No momento estou paticipando do programa Desemvolve 2023 do Grupo O Boticário.
-- Estou atualmente em transição de carreira para área tec, pois sempre tive interesse em programação.
+- Estou atualmente em transição de carreira Segurança da informação.
 
 <div align="center">
   <a href="https://github.com/zanlucaslaiz">
@@ -18,7 +18,6 @@
 
 <div> 
   <a href="https://instagram.com/zanlucas_dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/zanlucaslaiz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/laiz-zanlucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/laiz-zanlucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
